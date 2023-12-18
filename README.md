@@ -9,3 +9,8 @@
     - Input content
     - Format
     - Additional Information
+  - Interface for Prompt
+  - Factual Responses
+  - Text Summarization
+  - Text Extraction
+  - Text Classification
