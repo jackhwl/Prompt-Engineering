@@ -20,3 +20,4 @@
 4 Evaluating Prompt Performance
   - Ways to Evaluate Prompt Performance
   - Objective Metrics
+  - Subjective Metrics
