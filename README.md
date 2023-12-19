@@ -16,3 +16,4 @@
   - Text Classification
   - Conversation
   - Code Generation
+  - Reasoning and Math
