@@ -22,3 +22,4 @@
   - Objective Metrics
   - Subjective Metrics
   - Evaluation Techniques
+  - Example: Getting Better Results by Adjusting Parameters
