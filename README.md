@@ -15,3 +15,4 @@
   - Text Extraction
   - Text Classification
   - Conversation
+  - Code Generation
