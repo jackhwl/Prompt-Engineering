@@ -27,3 +27,4 @@
 5 Using Advanced Prompt Techniques
   - Advanced Prompting Techniques
   - Zero-shot and Few-shot Prompting
+  - Chain of Thought and Least to Most Prompting
