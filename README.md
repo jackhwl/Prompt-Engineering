@@ -26,4 +26,4 @@
   - Module Summary
 5 Using Advanced Prompt Techniques
   - Advanced Prompting Techniques
-  
+  - Zero-shot and Few-shot Prompting
