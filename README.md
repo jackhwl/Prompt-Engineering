@@ -23,3 +23,7 @@
   - Subjective Metrics
   - Evaluation Techniques
   - Example: Getting Better Results by Adjusting Parameters
+  - Module Summary
+5 Using Advanced Prompt Techniques
+  - Advanced Prompting Techniques
+  
