@@ -32,3 +32,5 @@
   - Module Summary
 6 Ethical Considerations
   - An Overview of Ethical Considerations
+  - Prompt Engineering Strategies to Address Ethical Concerns
+  
