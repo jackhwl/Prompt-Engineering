@@ -37,3 +37,4 @@
 7 Best Practices and Future Directions
   - Best Practices for Prompt Engineering
   - Trends and Future Directions
+  - Next Steps
