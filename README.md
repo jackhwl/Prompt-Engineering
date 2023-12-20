@@ -33,4 +33,7 @@
 6 Ethical Considerations
   - An Overview of Ethical Considerations
   - Prompt Engineering Strategies to Address Ethical Concerns
+  - Module Summary
+7 Best Practices and Future Directions
+  - Best Practices for Prompt Engineering
   
