@@ -28,3 +28,4 @@
   - Advanced Prompting Techniques
   - Zero-shot and Few-shot Prompting
   - Chain of Thought and Least to Most Prompting
+  - Generated Knowledge Prompting
