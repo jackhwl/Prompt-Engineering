@@ -29,3 +29,6 @@
   - Zero-shot and Few-shot Prompting
   - Chain of Thought and Least to Most Prompting
   - Generated Knowledge Prompting
+  - Module Summary
+6 Ethical Considerations
+  - An Overview of Ethical Considerations
