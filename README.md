@@ -48,3 +48,4 @@
   - Introduction
   - Introduction to Prompt Design Strategy
   - Comparing Prompt Design Strategy
+  - Tips for Effective Prompt Design
