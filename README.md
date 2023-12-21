@@ -47,3 +47,4 @@
 3 Prompt Design Strategies
   - Introduction
   - Introduction to Prompt Design Strategy
+  - Comparing Prompt Design Strategy
