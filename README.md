@@ -38,3 +38,12 @@
   - Best Practices for Prompt Engineering
   - Trends and Future Directions
   - Next Steps
+
+## Prompt Engineering Best Practices
+2 Introduction to Prompt Engineering
+  - What is Prompt Engineering?
+  - Why is Prompt Engineering Important?
+  - Evolution of Prompt Engineering in AI
+3 Prompt Design Strategies
+  - Introduction
+  - Introduction to Prompt Design Strategy
