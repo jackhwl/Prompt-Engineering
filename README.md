@@ -54,4 +54,7 @@
   - Prompting by Instruction
   - Prompting by Example
   - Pros and Cons of Different Prompting Methods
-  
+5 Controlling Model Output with Prompts
+  - Introduction
+  - Basics of Output Control through Prompts
+  - Techniques for Controlling Verbosity and Tone of the Output
