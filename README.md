@@ -49,3 +49,6 @@
   - Introduction to Prompt Design Strategy
   - Comparing Prompt Design Strategy
   - Tips for Effective Prompt Design
+4 Prompting Methods
+  - Introduction
+  - Prompting by Instruction
