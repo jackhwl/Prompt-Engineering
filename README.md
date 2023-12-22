@@ -52,3 +52,4 @@
 4 Prompting Methods
   - Introduction
   - Prompting by Instruction
+  - Prompting by Example
