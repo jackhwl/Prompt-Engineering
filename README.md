@@ -58,3 +58,7 @@
   - Introduction
   - Basics of Output Control through Prompts
   - Techniques for Controlling Verbosity and Tone of the Output
+6 Reducing Repetition in Output
+  - Introduction
+  - Understanding the Repetition Problem in AI Outputs
+  - Strategies to Reduce Repetition
