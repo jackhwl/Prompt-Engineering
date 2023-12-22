@@ -72,3 +72,5 @@
   - Introduction
   - Prompting Basics
   - Demo: ChatGPT in Action
+  - Prompt Development
+  - Demo: Zero-shot Learning
