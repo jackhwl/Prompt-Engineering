@@ -53,3 +53,5 @@
   - Introduction
   - Prompting by Instruction
   - Prompting by Example
+  - Pros and Cons of Different Prompting Methods
+  
