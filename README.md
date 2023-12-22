@@ -71,3 +71,4 @@
 2 Prompting at a Glance
   - Introduction
   - Prompting Basics
+  - Demo: ChatGPT in Action
