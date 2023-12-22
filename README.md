@@ -76,3 +76,4 @@
   - Demo: Zero-shot Learning
   - Demo: Few-shot Learning
   - Demo: Instruction Prompting
+  - Prompting Failures
