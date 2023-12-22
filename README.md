@@ -66,3 +66,7 @@
   - Introduction
   - Customizing Prompts for Various Tasks
   - Importance of Task Specific Prompt Design
+
+## Prompt Engineering for Improved Performance
+2 Prompting at a Glance
+  - Introduction
