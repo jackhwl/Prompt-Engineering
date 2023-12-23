@@ -62,3 +62,6 @@
   - Introduction
   - Understanding the Repetition Problem in AI Outputs
   - Strategies to Reduce Repetition
+7 Designing Prompts for Different Tasks
+  - Introduction
+  - Customizing Prompts for Various Tasks
