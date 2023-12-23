@@ -65,3 +65,4 @@
 7 Designing Prompts for Different Tasks
   - Introduction
   - Customizing Prompts for Various Tasks
+  - Importance of Task Specific Prompt Design
