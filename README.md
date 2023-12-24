@@ -83,3 +83,4 @@
   - Demo: Chain-of-thought Prompting
   - Knowledge Augmentation
   - Demo: Demo: Knowledge Augmentation
+  - Prompt Tuning 
