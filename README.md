@@ -80,3 +80,4 @@
 ## Master Advanced Prompting Techniques
   - Introduction
   - Chain-of-thought Prompting
+  - Demo: Chain-of-thought Prompting
