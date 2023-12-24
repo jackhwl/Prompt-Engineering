@@ -77,3 +77,6 @@
   - Demo: Few-shot Learning
   - Demo: Instruction Prompting
   - Prompting Failures
+## Master Advanced Prompting Techniques
+  - Introduction
+  - Chain-of-thought Prompting
