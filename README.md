@@ -81,3 +81,5 @@
   - Introduction
   - Chain-of-thought Prompting
   - Demo: Chain-of-thought Prompting
+  - Knowledge Augmentation
+  - Demo: Demo: Knowledge Augmentation
