@@ -84,3 +84,4 @@
   - Knowledge Augmentation
   - Demo: Demo: Knowledge Augmentation
   - Prompt Tuning 
+  - Demo: Prompt Tuning
