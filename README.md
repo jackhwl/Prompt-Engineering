@@ -88,3 +88,5 @@
 ## Optimize Prompts for Specific User Cases
   - Introduction
   - Demo: Summarizing Text
+  - Demo: Expanding Text
+  - Text-to-image Generation
