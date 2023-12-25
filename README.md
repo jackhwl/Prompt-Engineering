@@ -90,3 +90,4 @@
   - Demo: Summarizing Text
   - Demo: Expanding Text
   - Text-to-image Generation
+  - Demo: Text-to-image Generation
