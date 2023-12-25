@@ -91,3 +91,4 @@
   - Demo: Expanding Text
   - Text-to-image Generation
   - Demo: Text-to-image Generation
+  - Demo: Inferring Sentiment
