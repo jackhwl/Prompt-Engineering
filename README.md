@@ -97,3 +97,4 @@
 5 Design Prompts That Improve Performance
   - Introduction
   - Factors That Impact Latency
+  - Improve Prompt Design
