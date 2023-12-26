@@ -92,3 +92,5 @@
   - Text-to-image Generation
   - Demo: Text-to-image Generation
   - Demo: Inferring Sentiment
+  - Text Transformation
+  - Demo: Text Transformation
