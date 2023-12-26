@@ -98,3 +98,7 @@
   - Introduction
   - Factors That Impact Latency
   - Improve Prompt Design
+## The OpenAI API
+2 Getting Started with the OpenAI API
+  - Introduction
+  
