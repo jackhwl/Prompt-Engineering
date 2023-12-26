@@ -77,7 +77,7 @@
   - Demo: Few-shot Learning
   - Demo: Instruction Prompting
   - Prompting Failures
-## Master Advanced Prompting Techniques
+3 Master Advanced Prompting Techniques
   - Introduction
   - Chain-of-thought Prompting
   - Demo: Chain-of-thought Prompting
@@ -85,7 +85,7 @@
   - Demo: Demo: Knowledge Augmentation
   - Prompt Tuning 
   - Demo: Prompt Tuning
-## Optimize Prompts for Specific User Cases
+4 Optimize Prompts for Specific User Cases
   - Introduction
   - Demo: Summarizing Text
   - Demo: Expanding Text
@@ -94,3 +94,6 @@
   - Demo: Inferring Sentiment
   - Text Transformation
   - Demo: Text Transformation
+5 Design Prompts That Improve Performance
+  - Introduction
+  - Factors That Impact Latency
