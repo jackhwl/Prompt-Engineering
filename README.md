@@ -101,4 +101,4 @@
 ## The OpenAI API
 2 Getting Started with the OpenAI API
   - Introduction
-  
+  - AI, GPT, and OpenAI
