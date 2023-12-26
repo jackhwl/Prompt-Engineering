@@ -102,3 +102,4 @@
 2 Getting Started with the OpenAI API
   - Introduction
   - AI, GPT, and OpenAI
+  - REST APIs and JSON
