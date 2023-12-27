@@ -103,3 +103,5 @@
   - Introduction
   - AI, GPT, and OpenAI
   - REST APIs and JSON
+  - Getting an OpenAIP Key
+  - Demo: Calling the API Using Curl, JS, and Python
