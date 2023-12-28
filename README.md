@@ -105,3 +105,5 @@
   - REST APIs and JSON
   - Getting an OpenAIP Key
   - Demo: Calling the API Using Curl, JS, and Python
+3 Exploring the OpenAI API
+  - Explaining Key Terms
