@@ -108,3 +108,4 @@
 3 Exploring the OpenAI API
   - Explaining Key Terms
   - OpenAI's API Models
+  - Setting up the Python OpenAI Library
