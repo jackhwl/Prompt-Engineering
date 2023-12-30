@@ -112,3 +112,4 @@
   - The Images API
   - The Audio API
   - The Chat Coompletions API
+  - API Pricing
