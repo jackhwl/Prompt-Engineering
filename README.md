@@ -111,3 +111,4 @@
   - Setting up the Python OpenAI Library
   - The Images API
   - The Audio API
+  - The Chat Coompletions API
