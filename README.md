@@ -113,3 +113,5 @@
   - The Audio API
   - The Chat Coompletions API
   - API Pricing
+4 Using the Chat Completions API
+  - The Demo Application
