@@ -109,3 +109,4 @@
   - Explaining Key Terms
   - OpenAI's API Models
   - Setting up the Python OpenAI Library
+  - The Images API
