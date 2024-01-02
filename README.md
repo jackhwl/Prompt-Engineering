@@ -118,3 +118,4 @@
   - Designing the Second Prompt
   - Building the Application
   - Calling External Functtions
+  - Error Handling
