@@ -123,3 +123,4 @@
   - Handling Rate Limits
   - The Moderations API
   - Counting Tokens
+  - Choosing a Model
