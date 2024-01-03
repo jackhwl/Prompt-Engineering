@@ -130,3 +130,4 @@
 # Generative AI Foundations
 ## Generative AI Foundations: Getting Started
   1 Introduction and Overview
+  2 Your First Five Minutes with Generative AI
