@@ -98,6 +98,7 @@
   - Introduction
   - Factors That Impact Latency
   - Improve Prompt Design
+
 ## The OpenAI API
 2 Getting Started with the OpenAI API
   - Introduction
@@ -124,3 +125,8 @@
   - The Moderations API
   - Counting Tokens
   - Choosing a Model
+
+
+# Generative AI Foundations
+## Generative AI Foundations: Getting Started
+  1 Introduction and Overview
