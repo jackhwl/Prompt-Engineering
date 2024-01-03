@@ -119,3 +119,5 @@
   - Building the Application
   - Calling External Functtions
   - Error Handling
+5 Optimizing API Usage
+  - Handling Rate Limits
