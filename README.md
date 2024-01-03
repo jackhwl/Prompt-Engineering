@@ -121,3 +121,4 @@
   - Error Handling
 5 Optimizing API Usage
   - Handling Rate Limits
+  - The Moderations API
