@@ -122,3 +122,4 @@
 5 Optimizing API Usage
   - Handling Rate Limits
   - The Moderations API
+  - Counting Tokens
