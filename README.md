@@ -135,3 +135,6 @@
   4 How Geneerative AI Works
   5 When Generative AI Goes Wrong
   6 Getting Better Results from Generative AI
+
+## Generative AI Foundations: Prompt Engineering
+  1 What Is Prompt Engineering?
