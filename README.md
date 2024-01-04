@@ -138,3 +138,4 @@
 
 ## Generative AI Foundations: Prompt Engineering
   1 What Is Prompt Engineering?
+  2 Planning a Successful Prompt
