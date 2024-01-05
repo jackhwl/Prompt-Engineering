@@ -142,3 +142,11 @@
   3 The Most Useful Prompts Attributes in Generative AI
   4 Flipping the Roles
   5 Advanced Prompts
+  6 Prompting in Other Generative AI
+    - Image:
+      - Style: Abstract, Impressionist, Realistic
+      - Composition: Framing, Rule of Thirds, Leading Lines, Depth of Focus
+      - Color: Monochromatic, Analogous, Complementary
+      - Subject: Foreground, Focus, Background
+      - Mood: Melancholic, Eerie, Cheerful, Serene
+      - Genre: Fantasy, Real-World
