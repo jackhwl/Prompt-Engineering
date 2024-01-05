@@ -157,3 +157,5 @@
   1 Course Overview
   2 Introduction to Generative Models
     - Overview of Generative Models
+    - Applications and Importance of Generative Models
+    
