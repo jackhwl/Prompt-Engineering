@@ -141,3 +141,4 @@
   2 Planning a Successful Prompt
   3 The Most Useful Prompts Attributes in Generative AI
   4 Flipping the Roles
+  5 Advanced Prompts
