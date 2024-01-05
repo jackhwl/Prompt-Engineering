@@ -150,3 +150,10 @@
       - Subject: Foreground, Focus, Background
       - Mood: Melancholic, Eerie, Cheerful, Serene
       - Genre: Fantasy, Real-World
+
+
+# Exploring Generative AI Path
+## Exploring Generative AI Models and Architecture
+  1 Course Overview
+  2 Introduction to Generative Models
+    - Overview of Generative Models
