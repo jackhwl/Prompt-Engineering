@@ -160,3 +160,4 @@
     - Applications and Importance of Generative Models
   3 Variational Autoencoders (VAEs)
     - Understanding the Architcture of Variational Autoencoders
+    - Review of Successful Variational Autoencoders Use Cases
