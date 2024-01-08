@@ -161,3 +161,5 @@
   3 Variational Autoencoders (VAEs)
     - Understanding the Architcture of Variational Autoencoders
     - Review of Successful Variational Autoencoders Use Cases
+  4 Transformers
+    - Understanding the Architecture of Transformers
