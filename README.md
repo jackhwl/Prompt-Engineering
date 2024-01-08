@@ -163,3 +163,4 @@
     - Review of Successful Variational Autoencoders Use Cases
   4 Transformers
     - Understanding the Architecture of Transformers
+    - Review of Successful Transformer Use Cases
