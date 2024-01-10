@@ -167,3 +167,5 @@
   5 Chatbots
     - Understanding the Architecture of Chatbots
     - Review of Successful Chatbots Use Cases
+  6 Generative Adversarial Networks (GANs)
+    - Understanding the Architecture of GANs
