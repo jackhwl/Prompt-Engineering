@@ -170,3 +170,4 @@
   6 Generative Adversarial Networks (GANs)
     - Understanding the Architecture of GANs
     - Review of Successful GANs Use Cases
+    - Module Summary
