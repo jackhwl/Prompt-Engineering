@@ -171,3 +171,5 @@
     - Understanding the Architecture of GANs
     - Review of Successful GANs Use Cases
     - Module Summary
+  7 Combination Models
+    - Understanding the Architecture of Combination Models
