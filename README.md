@@ -175,3 +175,6 @@
     - Understanding the Architecture of Combination Models
     - Review of Successful Combination Models Use Cases
     - Module Summary
+  8 Large Language Models (LLMs)
+    - Understanding the Architecture of Large Language Models LLMs
+    - Review of Successful Large Language Models Use Cases
