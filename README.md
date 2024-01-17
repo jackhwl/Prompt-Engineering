@@ -178,3 +178,4 @@
   8 Large Language Models (LLMs)
     - Understanding the Architecture of Large Language Models LLMs
     - Review of Successful Large Language Models Use Cases
+    - Module Summary
