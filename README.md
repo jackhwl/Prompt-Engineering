@@ -182,3 +182,5 @@
 
 ## Navigating Generative AI Hurdles: Prototyping, Evaluation, and Ethics
   1 Course Overview
+  2 Prototyping Generative AI Applications
+    - Introduction and Overview
