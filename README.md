@@ -179,3 +179,6 @@
     - Understanding the Architecture of Large Language Models LLMs
     - Review of Successful Large Language Models Use Cases
     - Module Summary
+
+## Navigating Generative AI Hurdles: Prototyping, Evaluation, and Ethics
+  1 Course Overview
