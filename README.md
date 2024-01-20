@@ -184,3 +184,4 @@
   1 Course Overview
   2 Prototyping Generative AI Applications
     - Introduction and Overview
+    - What You Will Learn in This Course
