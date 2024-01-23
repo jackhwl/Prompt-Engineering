@@ -188,3 +188,4 @@
     - Course Scenario
     - Prototyping Significance (Principles)
     - Prototyping Steps (Principles)
+    - Prototyping Techniques (Principles)
