@@ -189,3 +189,4 @@
     - Prototyping Significance (Principles)
     - Prototyping Steps (Principles)
     - Prototyping Techniques (Principles)
+    - Prototyping Effectiveness (Principles)
