@@ -190,3 +190,4 @@
     - Prototyping Steps (Principles)
     - Prototyping Techniques (Principles)
     - Prototyping Effectiveness (Principles)
+    - Demo: Prototyping a Generative AI Script Using Python (Part 1: Project Structure)
