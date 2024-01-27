@@ -181,17 +181,18 @@
     - Module Summary
 
 ## Navigating Generative AI Hurdles: Prototyping, Evaluation, and Ethics
-1 Course Overview
-2 Prototyping Generative AI Applications
-  - Introduction and Overview
-  - What You Will Learn in This Course
-  - Course Scenario
-  - Prototyping Significance (Principles)
-  - Prototyping Steps (Principles)
-  - Prototyping Techniques (Principles)
-  - Prototyping Effectiveness (Principles)
-  - Demo: Prototyping a Generative AI Script Using Python (Part 1: Project Structure)
-  - Demo: Prototyping a Generative AI Script Using Python (Part 2: Code Structure)
-  - Demo: Prototyping a Generative AI Script Using Python (Part 3: Prototype Geneerator)
-3 Evaluating Generative AI Applications
-  - Introduction and Overview
+  - 1 Course Overview
+  - 2 Prototyping Generative AI Applications
+    - Introduction and Overview
+    - What You Will Learn in This Course
+    - Course Scenario
+    - Prototyping Significance (Principles)
+    - Prototyping Steps (Principles)
+    - Prototyping Techniques (Principles)
+    - Prototyping Effectiveness (Principles)
+    - Demo: Prototyping a Generative AI Script Using Python (Part 1: Project Structure)
+    - Demo: Prototyping a Generative AI Script Using Python (Part 2: Code Structure)
+    - Demo: Prototyping a Generative AI Script Using Python (Part 3: Prototype Geneerator)
+
+  - 3 Evaluating Generative AI Applications
+    - Introduction and Overview
