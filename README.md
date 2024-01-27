@@ -196,3 +196,4 @@
 
   - 3 Evaluating Generative AI Applications
     - Introduction and Overview
+    - Evaluation Importance (Principlees)
