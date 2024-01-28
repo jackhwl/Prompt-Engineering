@@ -129,20 +129,20 @@
 
 # Generative AI Foundations
 ## Generative AI Foundations: Getting Started
-  1 Introduction and Overview
-  2 Your First Five Minutes with Generative AI
-  3 Generative AI That isn't ChatGPT
-  4 How Geneerative AI Works
-  5 When Generative AI Goes Wrong
-  6 Getting Better Results from Generative AI
+  - 1 Introduction and Overview
+  - 2 Your First Five Minutes with Generative AI
+  - 3 Generative AI That isn't ChatGPT
+  - 4 How Geneerative AI Works
+  - 5 When Generative AI Goes Wrong
+  - 6 Getting Better Results from Generative AI
 
 ## Generative AI Foundations: Prompt Engineering
-  1 What Is Prompt Engineering?
-  2 Planning a Successful Prompt
-  3 The Most Useful Prompts Attributes in Generative AI
-  4 Flipping the Roles
-  5 Advanced Prompts
-  6 Prompting in Other Generative AI
+  - 1 What Is Prompt Engineering?
+  - 2 Planning a Successful Prompt
+  - 3 The Most Useful Prompts Attributes in Generative AI
+  - 4 Flipping the Roles
+  - 5 Advanced Prompts
+  - 6 Prompting in Other Generative AI
     - Image:
       - Style: Abstract, Impressionist, Realistic
       - Composition: Framing, Rule of Thirds, Leading Lines, Depth of Focus
