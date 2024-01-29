@@ -154,28 +154,28 @@
 
 # Exploring Generative AI Path
 ## Exploring Generative AI Models and Architecture
-  1 Course Overview
-  2 Introduction to Generative Models
+  - 1 Course Overview
+  - 2 Introduction to Generative Models
     - Overview of Generative Models
-    - Applications and Importance of Generative Models
-  3 Variational Autoencoders (VAEs)
+  -   - Applications and Importance of Generative Models
+  - 3 Variational Autoencoders (VAEs)
     - Understanding the Architcture of Variational Autoencoders
     - Review of Successful Variational Autoencoders Use Cases
-  4 Transformers
+  - 4 Transformers
     - Understanding the Architecture of Transformers
     - Review of Successful Transformer Use Cases
-  5 Chatbots
+  - 5 Chatbots
     - Understanding the Architecture of Chatbots
     - Review of Successful Chatbots Use Cases
-  6 Generative Adversarial Networks (GANs)
+  - 6 Generative Adversarial Networks (GANs)
     - Understanding the Architecture of GANs
     - Review of Successful GANs Use Cases
     - Module Summary
-  7 Combination Models
+  - 7 Combination Models
     - Understanding the Architecture of Combination Models
     - Review of Successful Combination Models Use Cases
     - Module Summary
-  8 Large Language Models (LLMs)
+  - 8 Large Language Models (LLMs)
     - Understanding the Architecture of Large Language Models LLMs
     - Review of Successful Large Language Models Use Cases
     - Module Summary
