@@ -196,5 +196,6 @@
 
   - 3 Evaluating Generative AI Applications
     - Introduction and Overview
-    - Evaluation Importance (Principlees)
+    - Evaluation Importance (Principles)
     - Different EEvaluation Methods (Principles)
+    - Apply Evaluation Methods (Principles)
