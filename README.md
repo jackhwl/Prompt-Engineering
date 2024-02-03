@@ -200,3 +200,4 @@
     - Different EEvaluation Methods (Principles)
     - Apply Evaluation Methods (Principles)
     - Understand Evaluation Results (Principles)
+    - Demo: Evaluating a Generative AI Script Using Python
