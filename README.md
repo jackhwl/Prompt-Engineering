@@ -201,3 +201,6 @@
     - Apply Evaluation Methods (Principles)
     - Understand Evaluation Results (Principles)
     - Demo: Evaluating a Generative AI Script Using Python
+  - 4 Customizing Generative AI Applications
+    - Introduction and Overview
+    
