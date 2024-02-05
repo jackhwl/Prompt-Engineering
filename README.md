@@ -204,3 +204,4 @@
   - 4 Customizing Generative AI Applications
     - Introduction and Overview
     - Customization Importance （Principles）
+    - Customization Factors (Principles)
