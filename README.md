@@ -207,3 +207,5 @@
     - Customization Factors (Principles)
     - Customization Techniques (Principles)
     - Demo: Customization Steps with Python
+  - 5 Ethical Considerations in Generative AI
+    - Introduction and Overview
