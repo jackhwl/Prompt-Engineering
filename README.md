@@ -209,3 +209,4 @@
     - Demo: Customization Steps with Python
   - 5 Ethical Considerations in Generative AI
     - Introduction and Overview
+    - Ethical Issues (Principles)
