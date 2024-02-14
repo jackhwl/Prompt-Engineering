@@ -214,3 +214,4 @@
     - Ethical Principles
     - Ethical Implications
     - Demo： Ethical Guidelines with Python（Part 1）
+    - Demo： Ethical Guidelines with Python（Part 2）
