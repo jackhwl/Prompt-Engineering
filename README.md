@@ -215,3 +215,5 @@
     - Ethical Implications
     - Demo： Ethical Guidelines with Python（Part 1）
     - Demo： Ethical Guidelines with Python（Part 2）
+
+## The Data Sessions: Generating High-Quality Data with Prompt Engineering for Data Scientists
