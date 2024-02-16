@@ -217,3 +217,6 @@
     - Demo： Ethical Guidelines with Python（Part 2）
 
 ## The Data Sessions: Generating High-Quality Data with Prompt Engineering for Data Scientists
+
+## The Data Sessions: Future Directions in Prompt Engineering
+  - Prompt Engineering Definition
