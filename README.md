@@ -221,3 +221,4 @@
 ## The Data Sessions: Future Directions in Prompt Engineering
   - Prompt Engineering Definition
   - Prompt Englineering Workflow
+  - Adaptive Prompting
