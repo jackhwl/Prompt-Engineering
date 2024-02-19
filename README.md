@@ -222,3 +222,4 @@
   - Prompt Engineering Definition
   - Prompt Englineering Workflow
   - Adaptive Prompting
+  - Multimodal Prompting
