@@ -224,3 +224,4 @@
   - Adaptive Prompting
   - Multimodal Prompting
   - Comparison Adaptive vs. Multimodal Prompting
+  - Summary
