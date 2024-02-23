@@ -226,5 +226,7 @@
   - Comparison Adaptive vs. Multimodal Prompting
   - Summary
 
-  ## The Data Sessions: Prompt Engineering for Creatives
-  
+## The Data Sessions: Prompt Engineering for Creatives
+
+## The Data Sessions: Prompt Engineering for Marketing Professionals
+  - Introduction
