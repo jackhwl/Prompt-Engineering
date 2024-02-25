@@ -231,3 +231,4 @@
 ## The Data Sessions: Prompt Engineering for Marketing Professionals
   - Introduction
   - Prompt Engineering in Product Marketing
+  - Creating Marketing Content
