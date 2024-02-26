@@ -232,3 +232,4 @@
   - Introduction
   - Prompt Engineering in Product Marketing
   - Creating Marketing Content
+  - Personalization in Prompt Engineering
