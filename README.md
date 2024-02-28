@@ -234,3 +234,4 @@
   - Creating Marketing Content
   - Personalization in Prompt Engineering
   - Handling Inquiries - an AI Chatbot
+  - Garbage in - Gabage Out
