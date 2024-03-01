@@ -236,3 +236,5 @@
   - Handling Inquiries - an AI Chatbot
   - Garbage in - Gabage Out
   - Beyond Marketing
+
+## The Data Sessions: ChatGPT Roundtable Discussion with Pluralsight Experts
