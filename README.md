@@ -1,7 +1,7 @@
-# OpenAI Image API
+# OpenAI for Developers Path
 
 ## OpenAI Image API
-   - Course Overview
+
 # Prompt-Engineering
 
 ## Getting Started on Prompt Engineering with Generative AI
