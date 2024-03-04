@@ -7,5 +7,10 @@
 ## Practical Application - Techniques in Action
 - Overview
 - Environment Setup
-    - export OPENAI_API_KEY='sk-XXX'
+    - venv setup:
+    - python -m venv . 
+    - source bin/activate
     - pip install openai
+    - export OPENAI_API_KEY='sk-XXX'
+    - python ./generations.py  
+
