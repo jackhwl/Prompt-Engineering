@@ -4,3 +4,6 @@
 - Generating Images from Scratch Based on a Text Prompt
 - Exploring Image Editing and 'Inpainting' with DALL-E 2
 - Creating Image Variations
+## Practical Application - Techniques in Action
+- Overview
+
