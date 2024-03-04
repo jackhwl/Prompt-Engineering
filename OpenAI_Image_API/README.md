@@ -6,4 +6,6 @@
 - Creating Image Variations
 ## Practical Application - Techniques in Action
 - Overview
-
+- Environment Setup
+    - export OPENAI_API_KEY='sk-XXX'
+    - pip install openai
