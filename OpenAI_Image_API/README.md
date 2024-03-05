@@ -14,3 +14,4 @@
     - export OPENAI_API_KEY='sk-XXX'
     - python ./generations.py  
 - Handling Responses
+- Saving Images to Disk
