@@ -21,3 +21,4 @@
 - Overview
 - Error Handling and Troubleshooting Common Issues
 - Rate Limiting and Retries
+- Using the Async Client
