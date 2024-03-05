@@ -22,3 +22,4 @@
 - Error Handling and Troubleshooting Common Issues
 - Rate Limiting and Retries
 - Using the Async Client
+- Integrating the OpenAI Image API in a Real-World Project
