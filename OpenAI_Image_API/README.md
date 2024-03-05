@@ -23,3 +23,4 @@
 - Rate Limiting and Retries
 - Using the Async Client
 - Integrating the OpenAI Image API in a Real-World Project
+- Summary
