@@ -15,3 +15,4 @@
     - python ./generations.py  
 - Handling Responses
 - Saving Images to Disk
+- Hands-on Image Editing with Inpainting Techniques
