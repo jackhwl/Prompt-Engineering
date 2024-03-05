@@ -20,3 +20,4 @@
 ## Additional Concepts and Course Wrapup
 - Overview
 - Error Handling and Troubleshooting Common Issues
+- Rate Limiting and Retries
