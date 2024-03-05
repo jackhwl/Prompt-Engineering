@@ -17,3 +17,6 @@
 - Saving Images to Disk
 - Hands-on Image Editing with Inpainting Techniques
 - Creating and Applying Image Variations
+## Additional Concepts and Course Wrapup
+- Overview
+- Error Handling and Troubleshooting Common Issues
