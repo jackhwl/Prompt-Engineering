@@ -16,3 +16,4 @@
 - Handling Responses
 - Saving Images to Disk
 - Hands-on Image Editing with Inpainting Techniques
+- Creating and Applying Image Variations
