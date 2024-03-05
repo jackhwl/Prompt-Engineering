@@ -13,4 +13,4 @@
     - pip install openai
     - export OPENAI_API_KEY='sk-XXX'
     - python ./generations.py  
-
+- Handling Responses
