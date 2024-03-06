@@ -1,5 +1,7 @@
 # OpenAI for Developers Path
 
+## OpenAI Prompt Engineering for Improved Performance
+
 ## OpenAI Image API
 
 # Prompt-Engineering
