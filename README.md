@@ -6,6 +6,7 @@
   - Prompt Engineering Advanced Techniques
   - Few-shot Prompting Methods
   - System Messages
+  - Optimize GPT Query Response Times
 
 ## OpenAI Image API
 
