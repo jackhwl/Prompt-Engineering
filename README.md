@@ -1,7 +1,10 @@
 # OpenAI for Developers Path
 
 ## OpenAI Prompt Engineering for Improved Performance
-
+- Optimize GPT Prompt Performance
+  - Overview
+  - Prompt Engineering Advanced Techniques
+  
 ## OpenAI Image API
 
 # Prompt-Engineering
