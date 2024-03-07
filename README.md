@@ -4,7 +4,8 @@
 - Optimize GPT Prompt Performance
   - Overview
   - Prompt Engineering Advanced Techniques
-  
+  - Few-shot Prompting Methods
+
 ## OpenAI Image API
 
 # Prompt-Engineering
