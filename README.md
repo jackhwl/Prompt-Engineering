@@ -5,6 +5,7 @@
   - Overview
   - Prompt Engineering Advanced Techniques
   - Few-shot Prompting Methods
+  - System Messages
 
 ## OpenAI Image API
 
