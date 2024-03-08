@@ -8,6 +8,7 @@
   - System Messages
   - Optimize GPT Query Response Times
   - Demo: Tour the OpenAI API Docs and Libraries
+  - Demo: Explore Tokenization and System Messages
 
 ## OpenAI Image API
 
