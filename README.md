@@ -7,6 +7,7 @@
   - Few-shot Prompting Methods
   - System Messages
   - Optimize GPT Query Response Times
+  - Demo: Tour the OpenAI API Docs and Libraries
 
 ## OpenAI Image API
 
