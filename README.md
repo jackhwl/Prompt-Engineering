@@ -1,5 +1,11 @@
 # OpenAI for Developers Path
 
+## Practical Application of LLMs
+- Course Overview
+- Understanding LLMs
+  - Welcome
+  - Pros and Cons of LLMs
+
 ## OpenAI Prompt Engineering for Improved Performance
 - Optimize GPT Prompt Performance
   - Overview
