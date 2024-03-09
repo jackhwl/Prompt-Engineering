@@ -5,6 +5,8 @@
 - Understanding LLMs
   - Welcome
   - Pros and Cons of LLMs
+  - The Transformer Model
+  - Types of LLMs
 
 ## OpenAI Prompt Engineering for Improved Performance
 - Optimize GPT Prompt Performance
