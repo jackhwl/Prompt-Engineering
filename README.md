@@ -10,6 +10,7 @@
   - Demo: Tour the OpenAI API Docs and Libraries
   - Demo: Explore Tokenization and System Messages
   - Demo: Generate Python Source Code
+  - Demo: Analyze Python Source Code
 
 ## OpenAI Image API
 
