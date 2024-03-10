@@ -12,6 +12,8 @@
   - Prompt Engineering
   - Few Shot Prompting, Word Embeddings, and Plugins
   - Fine Tuning an LLM
+- Real-world Applications of LLMs
+  - Introduction
 
 ## OpenAI Prompt Engineering for Improved Performance
 - Optimize GPT Prompt Performance
