@@ -4,6 +4,7 @@
 - Course Overview
 - Running Ready-made Pre-trained LLMs
   - What Are Pre-trained LLMs?
+  - Executing Pre-trained LLMs with Poplular Libraries
 
 ## Practical Application of LLMs
 - Course Overview
