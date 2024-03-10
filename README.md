@@ -1,5 +1,10 @@
 # OpenAI for Developers Path
 
+## Build Solutions with Pre-trained LLMs
+- Course Overview
+- Running Ready-made Pre-trained LLMs
+  - What Are Pre-trained LLMs?
+
 ## Practical Application of LLMs
 - Course Overview
 - Understanding LLMs
