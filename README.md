@@ -19,6 +19,7 @@
 - Latest Research and Advancements
   - Introduction
   - Innovations
+  - Artificial General Intelligence
 
 ## OpenAI Prompt Engineering for Improved Performance
 - Optimize GPT Prompt Performance
