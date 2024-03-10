@@ -18,6 +18,7 @@
   - Demo：LangChain
 - Latest Research and Advancements
   - Introduction
+  - Innovations
 
 ## OpenAI Prompt Engineering for Improved Performance
 - Optimize GPT Prompt Performance
