@@ -16,6 +16,8 @@
   - Introduction
   - Demo: Tweets and Sentiment Analysis
   - Demo：LangChain
+- Latest Research and Advancements
+  - Introduction
 
 ## OpenAI Prompt Engineering for Improved Performance
 - Optimize GPT Prompt Performance
