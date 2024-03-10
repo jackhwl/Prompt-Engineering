@@ -10,6 +10,7 @@
 - Traning LLMs
   - Introduction
   - Prompt Engineering
+  - Few Shot Prompting, Word Embeddings, and Plugins
 
 ## OpenAI Prompt Engineering for Improved Performance
 - Optimize GPT Prompt Performance
