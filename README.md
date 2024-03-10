@@ -14,6 +14,7 @@
   - Fine Tuning an LLM
 - Real-world Applications of LLMs
   - Introduction
+  - Demo: Tweets and Sentiment Analysis
 
 ## OpenAI Prompt Engineering for Improved Performance
 - Optimize GPT Prompt Performance
