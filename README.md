@@ -15,6 +15,7 @@
 - Real-world Applications of LLMs
   - Introduction
   - Demo: Tweets and Sentiment Analysis
+  - Demo：LangChain
 
 ## OpenAI Prompt Engineering for Improved Performance
 - Optimize GPT Prompt Performance
