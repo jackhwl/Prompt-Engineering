@@ -6,6 +6,7 @@
   - What Are Pre-trained LLMs?
   - Executing Pre-trained LLMs with Poplular Libraries
   - Demo: Pre-trained LLMs for Text Classification
+  - Demo: Pre-trained LLMs for Text Generation
 
 ## Practical Application of LLMs
 - Course Overview
