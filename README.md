@@ -1,5 +1,10 @@
 # OpenAI for Developers Path
 
+## Developing Generative AI Applications with Python and Open AI
+- Course Overview
+- Introduction to Large Language Models and OpenAI
+
+
 ## Build Solutions with Pre-trained LLMs
 - Course Overview
 - Running Ready-made Pre-trained LLMs
