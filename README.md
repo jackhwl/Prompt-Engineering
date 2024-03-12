@@ -11,6 +11,7 @@
   - Defining and Applying Fine-tuning
   - Demo: Fine-tuning and Deploying LLMs for Inference
   - The Risks of Overfitting and Model Drift
+  - Ethical Considerations with LLMs and Summary 
 
 ## Practical Application of LLMs
 - Course Overview
