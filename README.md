@@ -9,6 +9,7 @@
   - Demo: Pre-trained LLMs for Text Generation
 - Customize and Deploy LLMs Effectively and Responsibly
   - Defining and Applying Fine-tuning
+  - Demo: Fine-tuning and Deploying LLMs for Inference
 
 ## Practical Application of LLMs
 - Course Overview
