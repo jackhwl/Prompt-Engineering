@@ -5,6 +5,7 @@
 - Introduction to Large Language Models and OpenAI
   - Life Before LLMs
   - Large Language Models (LLMs)
+  - The Journey to Large Language Models
 
 ## Build Solutions with Pre-trained LLMs
 - Course Overview
