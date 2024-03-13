@@ -3,7 +3,7 @@
 ## Developing Generative AI Applications with Python and Open AI
 - Course Overview
 - Introduction to Large Language Models and OpenAI
-
+  - Life Before LLMs
 
 ## Build Solutions with Pre-trained LLMs
 - Course Overview
