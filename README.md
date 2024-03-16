@@ -7,6 +7,7 @@
   - Large Language Models (LLMs)
   - The Journey to Large Language Models
   - Benefits, Challenges, Applications, Limitations, and Ethical Considerations
+  - About OpenAI
 
 ## Build Solutions with Pre-trained LLMs
 - Course Overview
