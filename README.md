@@ -8,6 +8,7 @@
   - The Journey to Large Language Models
   - Benefits, Challenges, Applications, Limitations, and Ethical Considerations
   - About OpenAI
+  - ChatGPT Demo
 
 ## Build Solutions with Pre-trained LLMs
 - Course Overview
