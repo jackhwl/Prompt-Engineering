@@ -9,6 +9,7 @@
   - Benefits, Challenges, Applications, Limitations, and Ethical Considerations
   - About OpenAI
   - ChatGPT Demo
+## Overview of Generative Pretrained Transformer(GPT) Models
 
 ## Build Solutions with Pre-trained LLMs
 - Course Overview
