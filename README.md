@@ -11,7 +11,7 @@
   - ChatGPT Demo
 ## Overview of Generative Pretrained Transformer(GPT) Models
   - Understanding Generative Pre-Trained Transformer (GPT) Models
-
+  - Architecture of Large Language Models
 
 ## Build Solutions with Pre-trained LLMs
 - Course Overview
